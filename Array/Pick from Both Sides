@@ -1,3 +1,6 @@
+Problem Link : https://www.interviewbit.com/problems/pick-from-both-sides/
+
+
 int Solution::solve(vector<int> &A, int B) {
     int n = A.size();
     int ans = 0;
